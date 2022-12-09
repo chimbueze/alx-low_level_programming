@@ -1,1 +1,1 @@
-c is fun
+c compiler
