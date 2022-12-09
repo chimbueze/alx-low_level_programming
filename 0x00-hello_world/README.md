@@ -1,1 +1,1 @@
-a script that runs a c file
+c is fun
